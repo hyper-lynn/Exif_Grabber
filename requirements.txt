@@ -1,0 +1,6 @@
+piexif == 1.1.3
+Color-Console == 10.0
+keyboard == 0.13.5
+ExifRead == 2.3.2
+pyfiglet
+piexif == 1.1.3
